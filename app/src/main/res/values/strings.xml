@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">versionTwoRetrofit</string>
+    <string name="random_chuck_norris_joke">Random Chuck Norris Joke</string>
+    <string name="joke">Your random joke is</string>
+    <string name="here_is_your_joke">Here is your joke!</string>
+    <string name="categoryCN">Pick a Chuck Norris joke category</string>
+</resources>
